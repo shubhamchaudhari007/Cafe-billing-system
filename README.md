@@ -114,10 +114,10 @@ Saved to history
 
 ## 🔮 Future Enhancements
 
-*🔹 GUI-based version
-*🔹 Database integration (MySQL/SQLite)
-*🔹 Multi-user login system
-*🔹 Advanced analytics (weekly/monthly reports)
+* 🔹 GUI-based version
+* 🔹 Database integration (MySQL/SQLite)
+* 🔹 Multi-user login system
+* 🔹 Advanced analytics (weekly/monthly reports)
 
 ---
 
